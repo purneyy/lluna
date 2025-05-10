@@ -15,6 +15,6 @@ It blends AI chat, legal templates, and community support for inclusive legal em
 
 🌐 Multilingual Support – Tamil-first, with plans for more regional languages
 
-🔐 Secure Login/Signup System – MongoDB-based user authentication
+🔐 Secure Login/Signup System – Firebase-based user authentication
 
 📌 AI Assistant on Every Page – Floating chatbot for continuous guidance
